@@ -1,0 +1,7 @@
+# This file is generated with https://canarytokens.org
+
+[default]
+aws_access_key_id = AKIAXYZDQCEN4AMUKSYP
+aws_secret_access_key = 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
+output = json
+region = us-east-2
